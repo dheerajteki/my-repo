@@ -1,0 +1,40 @@
+Vi editor
+vim editor - vi modified
+it has 3 modes
+
+1. Command mode - esc
+2. Insert mode - a, i
+3. Last line mode - shift : 
+
+commnad mode:
+yy - copy
+p - paste
+dd - line deletion
+dl - one letter dele
+dw - one word
+nyy - to copy n lines
+
+to find a word
+
+last line mode 
+/word - last 
+?word - top
+
+
+cp /source/path /destinatination/path
+
+cp -r /source/path /destinatination/path
+
+
+mv /source/path /destinatination/path to move files and directories
+
+mv oldame newname
+rm filename
+
+ifconfig or ip addr to check an ip
+
+lsblk - to list block devices
+
+df -h to see disk properties
+
+man commandname or commandname --help
